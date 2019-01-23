@@ -26,6 +26,11 @@ public class Player : MonoBehaviour {
             Mp = Mp - 0.1f;
 
         }
+        if(Input.GetButtonUp("Lightning"))
+        {
+            LightningHbox.SetActive(false);
+        }
+        
         if (Input.GetButton("Lightning") & Mp <= 0.0f)
         {
             LightningHbox.SetActive(false);
