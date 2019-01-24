@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\MagicMissle.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\Spawner.cs" />
+    <Compile Include="Assets\Scripts\TimedSpawn.cs" />
     <Compile Include="Assets\Scripts\WanderingAI.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/GetHub/Unity/Midstone_idea/Midstone_idea/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
