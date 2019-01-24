@@ -61,10 +61,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\destroyer Scripts.cs" />
+    <Compile Include="Assets\Scripts\Destroyer.cs" />
     <Compile Include="Assets\Scripts\MagicMissle.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
-    <Compile Include="Assets\Scripts\Spawner Scipt.cs" />
+    <Compile Include="Assets\Scripts\Spawner.cs" />
     <Compile Include="Assets\Scripts\WanderingAI.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/GetHub/Unity/Midstone_idea/Midstone_idea/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
