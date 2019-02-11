@@ -15,17 +15,17 @@ public class Destroyer : MonoBehaviour {
                 Destruction();
             }
         }
-        if (this.transform.position.x <= -500)
+        if (this.transform.position.x <= -10000)
         {
             Destruction();
         }
 
-        if (this.transform.position.y <= -500)
+        if (this.transform.position.y <= -10000)
         {
             Destruction();
         }
 
-        if (this.transform.position.z<= -500) {
+        if (this.transform.position.z<= -100000) {
             Destruction();
         }
                               
