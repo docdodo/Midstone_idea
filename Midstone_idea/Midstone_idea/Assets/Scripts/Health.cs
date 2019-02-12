@@ -13,10 +13,7 @@ public class Health : MonoBehaviour
     {
         hp = maxhp;
         Player = GameObject.Find("Player");
-        if (expworth <= 0.0f)
-        {
-            expworth = 10.0f;
-        }
+        
 
     }
 
